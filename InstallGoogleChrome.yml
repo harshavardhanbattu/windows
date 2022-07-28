@@ -10,3 +10,4 @@
           $ChromeInstaller = "ChromeInstaller.exe"
           (new-object    System.Net.WebClient).DownloadFile('http://dl.google.com/chrome/install/375.126/chrome_installer.exe', "$LocalTempDir\$ChromeInstaller")
           & "$LocalTempDir\$ChromeInstaller" /silent /install
+fvk nvnmwqg b nb n n1n 4wrekb mnb mwheb
